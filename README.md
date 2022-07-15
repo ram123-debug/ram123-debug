@@ -19,7 +19,7 @@
 <p align="center">
   <a href="https://github.com/ram123-debug">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ram123-debug&count_private=true&show_icons=true&theme=algolia&&include_all_commits=true"/>
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ram123-debug&count_private=true&hide=html,css,Makefile&layout=compact&langs_count=10&theme=algolia"/>
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ram123-debug&count_private=true&show=html,css,Makefile&layout=compact&langs_count=10&theme=algolia"/>
   </a>
 </p>
 	
