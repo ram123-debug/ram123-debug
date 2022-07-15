@@ -6,8 +6,6 @@
 
 ![](https://ram123-debug-visitor-badge.glitch.me/badge?page_id=ram123-debug.ram123-debug)
 
-<img src="https://github-readme-stats.vercel.app/api?username=ram123-debug&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=191919">
-
   ### Let's Connect :coffee:
 <p align="center">
 	<a href="https://www.linkedin.com/in/ram-munde-8901571b9/"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
